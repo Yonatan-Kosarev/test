@@ -7,6 +7,7 @@ import random
 import time
 import psycopg2
 import urllib.parse as url
+
 bot = telebot.TeleBot("5775729535:AAEVKoZIeqZ0o0s-52ptmJwj95_aInKW2xc")
 
 translator = Translator()
